@@ -1,0 +1,6 @@
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Models\bin\Debug\DataAccessLayer.Models.dll
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Models\bin\Debug\DataAccessLayer.Models.pdb
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Models\obj\Debug\DataAccessLayer.Models.csproj.CoreCompileInputs.cache
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Models\obj\Debug\DataAccessLayer.Models.dll
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Models\obj\Debug\DataAccessLayer.Models.pdb
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Models\obj\Debug\DataAccessLayer.Models.csprojAssemblyReference.cache

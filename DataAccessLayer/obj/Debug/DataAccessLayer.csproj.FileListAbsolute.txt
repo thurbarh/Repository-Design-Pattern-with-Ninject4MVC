@@ -1,0 +1,11 @@
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

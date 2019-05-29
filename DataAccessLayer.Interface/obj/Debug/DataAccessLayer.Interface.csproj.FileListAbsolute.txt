@@ -1,0 +1,9 @@
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Interface\bin\Debug\DataAccessLayer.Interface.dll
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Interface\bin\Debug\DataAccessLayer.Interface.pdb
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Interface\bin\Debug\DataAccessLayer.Models.dll
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Interface\bin\Debug\DataAccessLayer.Models.pdb
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Interface\obj\Debug\DataAccessLayer.Interface.csprojAssemblyReference.cache
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Interface\obj\Debug\DataAccessLayer.Interface.csproj.CoreCompileInputs.cache
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Interface\obj\Debug\DataAccessLayer.Interface.csproj.CopyComplete
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Interface\obj\Debug\DataAccessLayer.Interface.dll
+C:\Users\atoba\Documents\Visual Studio 2017\Projects\RepositoryDesignDemo\DataAccessLayer.Interface\obj\Debug\DataAccessLayer.Interface.pdb
